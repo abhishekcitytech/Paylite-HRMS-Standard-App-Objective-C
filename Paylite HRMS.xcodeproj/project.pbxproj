@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F4A1BBE91CAAAFDE000B0F97 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F4A1BBE81CAAAFDE000B0F97 /* main.m */; };
+		F4A1BBEC1CAAAFDE000B0F97 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F4A1BBEB1CAAAFDE000B0F97 /* AppDelegate.m */; };
+		F4A1BBEF1CAAAFDE000B0F97 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F4A1BBEE1CAAAFDE000B0F97 /* ViewController.m */; };
+		F4A1BBF21CAAAFDE000B0F97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4A1BBF01CAAAFDE000B0F97 /* Main.storyboard */; };
+		F4A1BBF51CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = F4A1BBF31CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodeld */; };
+		F4A1BBF71CAAAFDF000B0F97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F4A1BBF61CAAAFDF000B0F97 /* Assets.xcassets */; };
+		F4A1BBFA1CAAAFDF000B0F97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4A1BBF81CAAAFDF000B0F97 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F4A1BBE41CAAAFDE000B0F97 /* Paylite HRMS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Paylite HRMS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F4A1BBE81CAAAFDE000B0F97 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F4A1BBEA1CAAAFDE000B0F97 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F4A1BBEB1CAAAFDE000B0F97 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F4A1BBED1CAAAFDE000B0F97 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		F4A1BBEE1CAAAFDE000B0F97 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		F4A1BBF11CAAAFDE000B0F97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F4A1BBF41CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Paylite_HRMS.xcdatamodel; sourceTree = "<group>"; };
+		F4A1BBF61CAAAFDF000B0F97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F4A1BBF91CAAAFDF000B0F97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F4A1BBFB1CAAAFDF000B0F97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F4A1BBE11CAAAFDE000B0F97 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F4A1BBDB1CAAAFDD000B0F97 = {
+			isa = PBXGroup;
+			children = (
+				F4A1BBE61CAAAFDE000B0F97 /* Paylite HRMS */,
+				F4A1BBE51CAAAFDE000B0F97 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F4A1BBE51CAAAFDE000B0F97 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F4A1BBE41CAAAFDE000B0F97 /* Paylite HRMS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F4A1BBE61CAAAFDE000B0F97 /* Paylite HRMS */ = {
+			isa = PBXGroup;
+			children = (
+				F4A1BBEA1CAAAFDE000B0F97 /* AppDelegate.h */,
+				F4A1BBEB1CAAAFDE000B0F97 /* AppDelegate.m */,
+				F4A1BBED1CAAAFDE000B0F97 /* ViewController.h */,
+				F4A1BBEE1CAAAFDE000B0F97 /* ViewController.m */,
+				F4A1BBF01CAAAFDE000B0F97 /* Main.storyboard */,
+				F4A1BBF61CAAAFDF000B0F97 /* Assets.xcassets */,
+				F4A1BBF81CAAAFDF000B0F97 /* LaunchScreen.storyboard */,
+				F4A1BBFB1CAAAFDF000B0F97 /* Info.plist */,
+				F4A1BBF31CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodeld */,
+				F4A1BBE71CAAAFDE000B0F97 /* Supporting Files */,
+			);
+			path = "Paylite HRMS";
+			sourceTree = "<group>";
+		};
+		F4A1BBE71CAAAFDE000B0F97 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F4A1BBE81CAAAFDE000B0F97 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F4A1BBE31CAAAFDE000B0F97 /* Paylite HRMS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F4A1BBFE1CAAAFDF000B0F97 /* Build configuration list for PBXNativeTarget "Paylite HRMS" */;
+			buildPhases = (
+				F4A1BBE01CAAAFDE000B0F97 /* Sources */,
+				F4A1BBE11CAAAFDE000B0F97 /* Frameworks */,
+				F4A1BBE21CAAAFDE000B0F97 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Paylite HRMS";
+			productName = "Paylite HRMS";
+			productReference = F4A1BBE41CAAAFDE000B0F97 /* Paylite HRMS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F4A1BBDC1CAAAFDD000B0F97 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = SANDIPAN;
+				TargetAttributes = {
+					F4A1BBE31CAAAFDE000B0F97 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = F4A1BBDF1CAAAFDD000B0F97 /* Build configuration list for PBXProject "Paylite HRMS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F4A1BBDB1CAAAFDD000B0F97;
+			productRefGroup = F4A1BBE51CAAAFDE000B0F97 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F4A1BBE31CAAAFDE000B0F97 /* Paylite HRMS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F4A1BBE21CAAAFDE000B0F97 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4A1BBFA1CAAAFDF000B0F97 /* LaunchScreen.storyboard in Resources */,
+				F4A1BBF71CAAAFDF000B0F97 /* Assets.xcassets in Resources */,
+				F4A1BBF21CAAAFDE000B0F97 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F4A1BBE01CAAAFDE000B0F97 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F4A1BBEF1CAAAFDE000B0F97 /* ViewController.m in Sources */,
+				F4A1BBEC1CAAAFDE000B0F97 /* AppDelegate.m in Sources */,
+				F4A1BBF51CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodeld in Sources */,
+				F4A1BBE91CAAAFDE000B0F97 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F4A1BBF01CAAAFDE000B0F97 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F4A1BBF11CAAAFDE000B0F97 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F4A1BBF81CAAAFDF000B0F97 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F4A1BBF91CAAAFDF000B0F97 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F4A1BBFC1CAAAFDF000B0F97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F4A1BBFD1CAAAFDF000B0F97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F4A1BBFF1CAAAFDF000B0F97 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Paylite HRMS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.-.Paylite-HRMS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		F4A1BC001CAAAFDF000B0F97 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Paylite HRMS/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.-.Paylite-HRMS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F4A1BBDF1CAAAFDD000B0F97 /* Build configuration list for PBXProject "Paylite HRMS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4A1BBFC1CAAAFDF000B0F97 /* Debug */,
+				F4A1BBFD1CAAAFDF000B0F97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F4A1BBFE1CAAAFDF000B0F97 /* Build configuration list for PBXNativeTarget "Paylite HRMS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4A1BBFF1CAAAFDF000B0F97 /* Debug */,
+				F4A1BC001CAAAFDF000B0F97 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		F4A1BBF31CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				F4A1BBF41CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodel */,
+			);
+			currentVersion = F4A1BBF41CAAAFDE000B0F97 /* Paylite_HRMS.xcdatamodel */;
+			path = Paylite_HRMS.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = F4A1BBDC1CAAAFDD000B0F97 /* Project object */;
+}
