@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>941972478180-vj1qk5gq25s6vn2ptmga4r4hleajr64s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.941972478180-vj1qk5gq25s6vn2ptmga4r4hleajr64s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5hHRz7wSyOJ6mbscGLzYfaia8gLbuGro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>941972478180</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.citytech.paylitehrmsnewversion</string>
+	<key>PROJECT_ID</key>
+	<string>paylite-hr</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paylite-hr.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:941972478180:ios:b06c20488181e358</string>
+	<key>DATABASE_URL</key>
+	<string>https://paylite-hr.firebaseio.com</string>
+</dict>
+</plist>
